@@ -2,7 +2,7 @@
 
 This repository contains my solutions for the **Algorithms & Problem Solving Level 1 Course**. These exercises demonstrate my understanding of logical thinking, algorithm design, and clean coding practices in C++.
 
-##  Problem Sets Overview
+## Problem Sets Overview
 
 ### 1. Set 1: Basics & Structures (Problems 1-10)
 A collection of fundamental problems focusing on data handling, logical checks, and code modularity.
@@ -10,15 +10,16 @@ A collection of fundamental problems focusing on data handling, logical checks, 
 * **Concepts:** Structs, Enums, Arrays, Input Validation, Modular Functions.
 * **Status:** [✅ Completed](./01_Basics_and_Structures)
 
-### 2. Set 2: Loops & Accumulators (Problems 11-20)
-*Coming Soon...*
-Focuses on advanced control flow, loops, and mathematical algorithms.
-* **Concepts:** Nested Loops, Accumulators, Complex Validation.
+### 2. Set 2: Math Algorithms & Logic (Problems 11-20)
+Focuses on advanced control flow, referencing variables, and mathematical algorithms.
+* **Key Problems:** Swap Numbers (Pass by Ref), Max of 3, Complex Area Calculations.
+* **Concepts:** Pass by Reference, Nested Ifs, `cmath` Library.
+* **Status:** [✅ Completed](./02_Math_Algorithms_and_Logic)
 
 ### 3. Set 3: Functions & Reusability (Problems 21-30)
 *Coming Soon...*
 Demonstrates the power of breaking down complex logic into reusable components.
-* **Concepts:** Pass by Reference, Recursive Logic, Header Files.
+* **Concepts:** Recursive Logic, Advanced Functions, Header Files.
 
 ---
 **Developed by Mohamed Abdelrady - 2025**
