@@ -32,4 +32,4 @@ Transitions to building complete mini-systems using structured data and optimize
 *Coming Soon...*
 
 ---
-**Developed by [Mohamed Abdelrady] - 2025**
+**Developed by Mohamed Abdelrady - 2025**
