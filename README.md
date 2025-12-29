@@ -22,8 +22,11 @@ Marks the shift to iterative programming, loops, and ensuring data integrity.
 * **Concepts:** `for` / `do-while` Loops, Input Validation, long long` Data Types.
 * **Status:** [✅ Completed](./03_Loops_and_Validation)
 
-### 4. Set 4: (Problems 31-40)
-*Coming Soon...*
+### 4. Set 4: Functions & Structs (Problems 31-40)
+Transitions to building complete mini-systems using structured data and optimized logic.
+* **Key Problems:** Simple Calculator, Piggy Bank System, Prime Check (Optimized).
+* **Concepts:** `Structs`, `Enums`, `Switch Case`, Separation of Concerns, `Clean Code`.
+* **Status:** [✅ Completed](./04_Functions_and_Structs)
 
 ### 5. Set 5: (Problems 41-50)
 *Coming Soon...*
