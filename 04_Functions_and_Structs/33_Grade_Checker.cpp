@@ -2,7 +2,7 @@
 # include <string>
 using namespace std;
 
-void Clear_Screen() //This code clears the screen
+void Clear_Screen()
 {
 	cout << "\033[2J\033[1;1H";
 }
@@ -45,4 +45,5 @@ int main()
 	int From = 0, To = 100;
 	Print_info(Read_Grade(From,To));
 	return 0;
+
 }
