@@ -28,8 +28,11 @@ Transitions to building complete mini-systems using structured data and optimize
 * **Concepts:** `Structs`, `Enums`, `Switch Case`, Separation of Concerns, `Clean Code`.
 * **Status:** [✅ Completed](./04_Functions_and_Structs)
 
-### 5. Set 5: (Problems 41-50)
-*Coming Soon...*
+### 5. Set 5: Financial Systems & Security (Problems 41-50)
+The final set of Level 1, focusing on real-world simulations, security logic, and code reusability.
+* **Key Problems:** ATM PIN System (3-Attempt Lock), Loan Installment Calculator, Duration Processing.
+* **Concepts:** `While` vs `Do-While` Loops, `Break` Statement, Security Logic, **Building Custom Libraries (`MyLib.h`)**.
+* **Status:** [✅ Completed](./05_Financial_and_Security)
 
 ---
 **Developed by Mohamed Abdelrady - 2025**
